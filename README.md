@@ -83,4 +83,4 @@ career-agent/
 
 This system was built by Eric Allatta, a mid-career educator and data worker, after a close encounter with his own inflated resume. The `CLAUDE.md` is the distilled version of a personal job application repository built in Cursor with Claude.
 
-The post that goes with this: [link]
+The post that goes with this: [https://www.linkedin.com/posts/eric-allatta_github-mrallattacareer-agent-activity-7448117126663397377-uUi6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZ46-4B1ZJkcTJnRKiinGih5ku9XSbbfi4]
